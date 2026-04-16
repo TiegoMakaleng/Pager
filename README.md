@@ -1,4 +1,4 @@
-# Pager
+# Pager (Formerly Wikipager)
 
 **Privacy Policy**
 
