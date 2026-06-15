@@ -79,9 +79,37 @@ Depending on your location and applicable laws, you may have the right to:
 * Access the personal information we hold about you
 * Request correction of inaccurate information
 * Request deletion of your personal information
-`Users can delete their account directly in the app under Settings → Delete Account.`
+## 🗑️ Request Deletion of Your Personal Information
 
-`After signing in with your email and password, navigate to the Profile/Settings section via the bottom navigation bar. Scroll to the bottom of the screen and select Delete Account to begin the account deletion process.`
+Users can request deletion of their personal information and account at any time.
+
+---
+
+## 🔐 In-App Account Deletion
+
+You can delete your account directly within the app:
+
+**Settings → Delete Account**
+
+---
+
+## 📱 Steps to Delete Your Account
+
+1. Sign in using your email and password  
+2. Open the **Profile / Settings** section from the bottom navigation bar  
+3. Scroll to the bottom of the screen  
+4. Tap **Delete Account**  
+5. Confirm the action to permanently delete your account and associated data  
+
+---
+
+## ⚠️ Important Information
+
+- Account deletion is permanent and cannot be undone  
+- All associated user data will be removed from our systems  
+- Some data may be retained temporarily for legal, security, or backup purposes (up to 30–90 days)  
+
+---
 
 * Withdraw consent where processing is based on consent
 
