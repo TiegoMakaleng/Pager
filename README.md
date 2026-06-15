@@ -79,6 +79,10 @@ Depending on your location and applicable laws, you may have the right to:
 * Access the personal information we hold about you
 * Request correction of inaccurate information
 * Request deletion of your personal information
+`Users can delete their account directly in the app under Settings → Delete Account.`
+
+`After signing in with your email and password, navigate to the Profile/Settings section via the bottom navigation bar. Scroll to the bottom of the screen and select Delete Account to begin the account deletion process.`
+
 * Withdraw consent where processing is based on consent
 
 To exercise these rights, please contact us using the details provided below.
